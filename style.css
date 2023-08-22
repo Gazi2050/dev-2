@@ -31,3 +31,18 @@ h1 {
     font-weight: 400;
     line-height: normal;
 }
+
+.member1 {
+    display: flex;
+}
+
+.member1-intro img {
+    width: 50%;
+    border-radius: 10px;
+
+}
+
+.post {
+    transform: rotate(90deg);
+
+}
